@@ -1,2 +1,2 @@
-# mi-pagina
+# rickandmorty
 ensayo de pagina web
